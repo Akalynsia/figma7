@@ -10,8 +10,8 @@ const App = () => {
           style={{ width: "1968px", height: "945px", zIndex: "1" }}
         />
       </div>
-      <div className="absolute top-[50px] left-[400px] w-[350px] h-[350px] border-[45px] border-[#000000] border-opacity-25 rounded-full"></div>
-      <div className="absolute top-[250px] left-[619px] w-[581px] h-[443px] bg-[#FFFFFF] bg-opacity-20 rounded-3xl flex flex-col justify-center items-center">
+      <div className="absolute top-[50px] left-[440px] w-[350px] h-[350px] border-[45px] border-[#000000] border-opacity-25 rounded-full"></div>
+      <div className="absolute top-[250px] left-[693.5px] w-[581px] h-[443px] bg-[#FFFFFF] bg-opacity-20 rounded-3xl flex flex-col justify-center items-center">
         <div className="text-[50px] font-[700] text-[#FFFFFF] text-opacity-80">
           LOGIN
         </div>
